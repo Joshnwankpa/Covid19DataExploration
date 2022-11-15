@@ -203,3 +203,7 @@ From PortfolioProject..CovidDeaths1
 --Where location = 'Brazil'
 Group by Location, Population, date
 order by PercentPopulationInfected desc
+
+-- Link for Tableau Visualisation
+
+https://public.tableau.com/app/profile/joshua1182
